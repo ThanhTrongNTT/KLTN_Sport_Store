@@ -1,0 +1,220 @@
+{
+  "status": "ok",
+  "result": {
+    "giftOptionSummary": {
+      "giftWrappers": [],
+      "messageCards": []
+    },
+    "isGiftOptionEnabled": true,
+    "maxSize": 0,
+    "orderSummary": {
+      "productsCount": 2,
+      "orders": {
+        "items": [
+          {
+            "price": {
+              "currency": {
+                "code": "VND",
+                "symbol": "₫"
+              },
+              "value": 684000
+            },
+            "label": "Tổng cộng",
+            "type": "ITEMS_SUBTOTAL"
+          }
+        ]
+      },
+      "subtotal": {
+        "price": {
+          "currency": {
+            "code": "VND",
+            "symbol": "₫"
+          },
+          "value": 684000
+        },
+        "label": "Tổng",
+        "type": "SUBTOTAL"
+      },
+      "additions": {
+        "items": [
+          {
+            "price": {
+              "currency": {
+                "code": "VND",
+                "symbol": "₫"
+              },
+              "value": 50667
+            },
+            "label": "Đã bao gồm thuế giá trị gia tăng",
+            "type": "TAX"
+          }
+        ]
+      },
+      "total": {
+        "price": {
+          "currency": {
+            "code": "VND",
+            "symbol": "₫"
+          },
+          "value": 684000
+        },
+        "label": "Tổng đơn đặt hàng",
+        "type": "TOTAL"
+      },
+      "alteration": null,
+      "gift": null,
+      "freeShippingAt": {
+        "price": {
+          "currency": {
+            "code": "VND",
+            "symbol": "₫"
+          },
+          "value": 999000
+        },
+        "label": "",
+        "type": "FREE_SHIPPING_AT"
+      },
+      "untilFreeShipping": {
+        "price": {
+          "currency": {
+            "code": "VND",
+            "symbol": "₫"
+          },
+          "value": 315000
+        },
+        "label": "",
+        "type": "UNTIL_FREE_SHIPPING"
+      },
+      "isFreeShipping": true
+    },
+    "errors": [
+      {
+        "code": "TOTAL_PAYMENT_AMOUNT_INCONSISTENT"
+      },
+      {
+        "code": "TEMPORARY_BOOKING_INCONSISTENT"
+      }
+    ],
+    "basketDetails": [
+      {
+        "id": "1",
+        "quantity": 1,
+        "subtotalPrice": {
+          "currency": {
+            "code": "VND",
+            "symbol": "₫"
+          },
+          "value": 391000
+        },
+        "product": {
+          "l1Id": "473157",
+          "productId": "E473157-000",
+          "l2Id": "08270497",
+          "name": "DRY-EX Áo Thun Cổ Tròn (Nhẹ)",
+          "imageUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/473157/item/vngoods_67_473157.jpg",
+          "stock": 5,
+          "color": {
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE"
+          },
+          "flags": {
+            "productFlags": [],
+            "priceFlags": []
+          },
+          "size": {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S"
+          },
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-"
+          },
+          "genderName": "Nam",
+          "prices": {
+            "promo": null,
+            "base": {
+              "currency": {
+                "code": "VND",
+                "symbol": "₫"
+              },
+              "value": 391000
+            }
+          },
+          "isValid": true,
+          "errors": [],
+          "preOrderStockType": "CONFIRMED_STOCK",
+          "topCategories": [
+            "men"
+          ],
+          "isSITItem": false
+        }
+      },
+      {
+        "id": "2",
+        "quantity": 1,
+        "subtotalPrice": {
+          "currency": {
+            "code": "VND",
+            "symbol": "₫"
+          },
+          "value": 293000
+        },
+        "product": {
+          "l1Id": "465186",
+          "productId": "E422992-000",
+          "l2Id": "07913364",
+          "name": "Áo Thun Cổ Tròn",
+          "imageUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/422992/item/vngoods_00_422992.jpg",
+          "stock": 51,
+          "color": {
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE"
+          },
+          "flags": {
+            "productFlags": [],
+            "priceFlags": []
+          },
+          "size": {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M"
+          },
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-"
+          },
+          "genderName": "Unisex",
+          "prices": {
+            "promo": null,
+            "base": {
+              "currency": {
+                "code": "VND",
+                "symbol": "₫"
+              },
+              "value": 293000
+            }
+          },
+          "isValid": true,
+          "errors": [],
+          "preOrderStockType": "CONFIRMED_STOCK",
+          "topCategories": [
+            "men",
+            "women"
+          ],
+          "isSITItem": false
+        }
+      }
+    ],
+    "preOrderBasketType": "REGULAR",
+    "shippingInformation": null,
+    "billingInformation": {},
+    "paymentStoreDetails": null,
+    "coupons": [],
+    "isSITItemIncluded": false
+  }
+}

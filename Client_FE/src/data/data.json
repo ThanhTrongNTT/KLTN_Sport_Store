@@ -1,0 +1,1544 @@
+{
+  "status": "ok",
+  "result": {
+    "items": [
+      {
+        "breadcrumbs": {
+          "gender": {
+            "id": "17011",
+            "level": 1,
+            "name": "women",
+            "locale": "NỮ"
+          },
+          "class": {
+            "id": "17249",
+            "level": 2,
+            "name": "t-shirts sweat and fleece",
+            "locale": "ÁO THUN, ÁO NỈ & ÁO GIẢ LÔNG CỪU"
+          },
+          "category": {
+            "id": "17351",
+            "level": 3,
+            "name": "t shirts",
+            "locale": "Áo Thun"
+          },
+          "subcategory": {
+            "id": "17419",
+            "level": 4,
+            "name": "short sleeve",
+            "locale": "Ngắn Tay"
+          }
+        },
+        "careInstruction": "<br>",
+        "countries": [],
+        "colors": [
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "displayOrder": 32,
+            "name": "BEIGE",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "isFavorite": false,
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL58",
+            "displayCode": "58",
+            "displayOrder": 59,
+            "name": "DARK GREEN",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "isFavorite": false,
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "displayOrder": 70,
+            "name": "NAVY",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "isFavorite": false,
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "96% Bông, 4% Elastan",
+        "designDetail": "",
+        "freeInformation": "- Những hình ảnh sản phẩm có thể bao gồm những màu không có sẵn.",
+        "genderName": "Nữ",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/476248/item/vngoods_31_476248.jpg",
+              "colorCode": "31"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/476248/item/vngoods_58_476248.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/476248/item/vngoods_69_476248.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476248/chip/goods_31_476248_chip.jpg",
+              "colorCode": "31"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476248/chip/goods_58_476248_chip.jpg",
+              "colorCode": "58"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476248/chip/goods_69_476248_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/476248/sub/vngoods_476248_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476248/sub/goods_476248_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476248/sub/goods_476248_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476248/sub/goods_476248_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476248/sub/goods_476248_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/476248/sub/vngoods_476248_sub28.jpg"
+            }
+          ]
+        },
+        "importerInfo": [],
+        "l1Id": "476248",
+        "l1Ids": [
+          "476248"
+        ],
+        "l2s": [
+          {
+            "color": {
+              "code": "COL31",
+              "displayCode": "31",
+              "name": "BEIGE",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-31-002-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299397",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA002",
+              "displayCode": "002",
+              "name": "XS"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL31",
+              "displayCode": "31",
+              "name": "BEIGE",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-31-003-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299398",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA003",
+              "displayCode": "003",
+              "name": "S"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL31",
+              "displayCode": "31",
+              "name": "BEIGE",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-31-004-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299399",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA004",
+              "displayCode": "004",
+              "name": "M"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL31",
+              "displayCode": "31",
+              "name": "BEIGE",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-31-005-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299400",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA005",
+              "displayCode": "005",
+              "name": "L"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL31",
+              "displayCode": "31",
+              "name": "BEIGE",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-31-006-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299401",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA006",
+              "displayCode": "006",
+              "name": "XL"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL31",
+              "displayCode": "31",
+              "name": "BEIGE",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-31-007-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299402",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA007",
+              "displayCode": "007",
+              "name": "XXL"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL58",
+              "displayCode": "58",
+              "name": "DARK GREEN",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-58-002-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299405",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA002",
+              "displayCode": "002",
+              "name": "XS"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL58",
+              "displayCode": "58",
+              "name": "DARK GREEN",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-58-003-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299406",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA003",
+              "displayCode": "003",
+              "name": "S"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL58",
+              "displayCode": "58",
+              "name": "DARK GREEN",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-58-004-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299407",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA004",
+              "displayCode": "004",
+              "name": "M"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL58",
+              "displayCode": "58",
+              "name": "DARK GREEN",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-58-005-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299408",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA005",
+              "displayCode": "005",
+              "name": "L"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL58",
+              "displayCode": "58",
+              "name": "DARK GREEN",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-58-006-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299409",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA006",
+              "displayCode": "006",
+              "name": "XL"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL58",
+              "displayCode": "58",
+              "name": "DARK GREEN",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-58-007-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299410",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA007",
+              "displayCode": "007",
+              "name": "XXL"
+            },
+            "stock": {
+              "statusCode": "STOCK_OUT",
+              "statusLocalized": "Hết hàng",
+              "quantity": 0,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL69",
+              "displayCode": "69",
+              "name": "NAVY",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-69-002-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299413",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA002",
+              "displayCode": "002",
+              "name": "XS"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL69",
+              "displayCode": "69",
+              "name": "NAVY",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-69-003-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299414",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA003",
+              "displayCode": "003",
+              "name": "S"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL69",
+              "displayCode": "69",
+              "name": "NAVY",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-69-004-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299415",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA004",
+              "displayCode": "004",
+              "name": "M"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL69",
+              "displayCode": "69",
+              "name": "NAVY",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-69-005-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299416",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA005",
+              "displayCode": "005",
+              "name": "L"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL69",
+              "displayCode": "69",
+              "name": "NAVY",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-69-006-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299417",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA006",
+              "displayCode": "006",
+              "name": "XL"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          },
+          {
+            "color": {
+              "code": "COL69",
+              "displayCode": "69",
+              "name": "NAVY",
+              "display": {
+                "showFlag": true,
+                "chipType": 0
+              }
+            },
+            "communicationCode": "476248-69-007-000",
+            "flags": {
+              "productFlags": [],
+              "priceFlags": [
+                {
+                  "code": "limitedOffer",
+                  "id": 10,
+                  "name": "Limited Offer",
+                  "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+                }
+              ]
+            },
+            "alterations": {},
+            "l2Id": "08299418",
+            "pld": {
+              "code": "PTB000",
+              "displayCode": "000",
+              "name": "-",
+              "display": {
+                "showFlag": false,
+                "chipType": 0
+              }
+            },
+            "prices": {
+              "base": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "293000.0000"
+              },
+              "promo": {
+                "currency": {
+                  "code": "VND",
+                  "symbol": "₫"
+                },
+                "value": "195000.0000"
+              }
+            },
+            "size": {
+              "code": "SMA007",
+              "displayCode": "007",
+              "name": "XXL"
+            },
+            "stock": {
+              "statusCode": "IN_STOCK",
+              "statusLocalized": "Còn hàng",
+              "quantity": 11,
+              "transitStatus": "NO_TRANSIT"
+            },
+            "sales": true,
+            "salesType": "NORMAL"
+          }
+        ],
+        "longDescription": "- Smooth, contouring cotton fabric creates an elegantly fitted silhouette. <br>- A basic short-sleeved T-shirt with a short length and tight fit, perfect for the ‘90s look. <br>- Collar edged in matching fabric for easy styling. <br>- Fitted silhouette is great for layering.",
+        "name": "Áo Thun Mini | Kẻ Sọc",
+        "netQuantity": "",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "VND",
+              "symbol": "₫"
+            },
+            "value": "293000.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "VND",
+              "symbol": "₫"
+            },
+            "value": "195000.0000"
+          }
+        },
+        "productId": "E476248-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "displayOrder": 1,
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.79,
+          "count": 19,
+          "fit": 3.11,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 2,
+            "five": 16
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "size": {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "pld": {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Từ 23 Aug 2024 - 29 Aug 2024"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "08299414",
+          "sales": true,
+          "salesType": "NORMAL"
+        },
+        "reviews": {
+          "total": 19,
+          "count": 3,
+          "items": [
+            {
+              "id": 22536134,
+              "ageRange": 10,
+              "createDate": 1724572867,
+              "gender": {
+                "code": 1,
+                "name": "Female"
+              },
+              "name": "abcfdagfdgsfgasdfgsf",
+              "rate": 3,
+              "title": "chật",
+              "purchasedSize": "L",
+              "heightRange": "151 - 155cm",
+              "weightRange": "51 - 55kg",
+              "shoeSize": "EU36",
+              "comment": "áo chật. Không đúng mô tả.\nXin phép gửi lại, xin đổi lại size",
+              "fit": 1,
+              "location": "Gia Lai"
+            },
+            {
+              "id": 18492854,
+              "ageRange": 10,
+              "createDate": 1724162703,
+              "gender": {
+                "code": 0,
+                "name": "Male"
+              },
+              "name": "Sally",
+              "rate": 5,
+              "title": "Worth the buy",
+              "purchasedSize": "M",
+              "heightRange": null,
+              "weightRange": null,
+              "shoeSize": null,
+              "comment": "Very comfy and true to its size. Im a buyer of uniqlo clothes eversince. And its all worth it.",
+              "fit": 3,
+              "location": "SOCCSKSARGEN"
+            },
+            {
+              "id": 17228035,
+              "ageRange": 8,
+              "createDate": 1723817766,
+              "gender": {
+                "code": 0,
+                "name": "Male"
+              },
+              "name": "Daniel Dzikri",
+              "rate": 4,
+              "title": "nice shirt",
+              "purchasedSize": "M",
+              "heightRange": "166 - 170cm",
+              "weightRange": "66 - 70kg",
+              "shoeSize": "EU42",
+              "comment": "I recently purchased the Striped Mini T-Shirt from Uniqlo, and I'm quite pleased with it. The design is effortlessly stylish with classic horizontal stripes that add a touch of sophistication to casual wear. The mini length is trendy and works well both tucked into jeans or left out for a relaxed look.",
+              "fit": 3,
+              "location": "Kuala Lumpur"
+            }
+          ]
+        },
+        "shortDescription": "",
+        "sizeChartUrl": "https://www.uniqlo.com/vn/vi/size/476248_size.html",
+        "topCategories": [
+          "women"
+        ],
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "displayOrder": 3,
+            "name": "XS",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "displayOrder": 4,
+            "name": "S",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "displayOrder": 5,
+            "name": "M",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "displayOrder": 6,
+            "name": "L",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "displayOrder": 7,
+            "name": "XL",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "displayOrder": 8,
+            "name": "XXL",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Giặt máy nước lạnh, Giặt khô, Không sấy khô",
+        "promoInfo": {
+          "promoId": "",
+          "promoConditionText": "",
+          "promotionText": ""
+        }
+      }
+    ]
+  }
+}
